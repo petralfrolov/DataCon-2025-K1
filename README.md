@@ -1,6 +1,5 @@
 # DataCon‑2025 — команда **K1**
 
-Ниже приведён итоговый README, описывающий весь пайплайн «end‑to‑end» для хакатона DataCon‑25 (TЗ → [https://github.com/AsyaOrlova/DataCon25](https://github.com/AsyaOrlova/DataCon25)).
 Файл **DataCon.ipynb** содержит весь исполняемый код, а **DataCon.pptx** — краткие слайды‑выжимку.
 
 ---
